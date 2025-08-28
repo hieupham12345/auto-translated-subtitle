@@ -1,7 +1,10 @@
 # 🌍 Auto Translated Subtitle  
 
-Translate subtitle files (.srt) into multiple languages with ease.  
+Turn any video into translated subtitles with ease.  
 This project is designed to be simple yet powerful — supporting both free and enterprise-grade translation.  
+
+## 🔄 Pipeline  
+🎥 **Video** → 📝 **SRT (via OpenAI Whisper)** → 🌐 **Translated SRT**  
 
 ## ✨ Features  
 - 🌐 **Subtitle Translation**: Automatically translate .srt subtitle files into your target language.  
